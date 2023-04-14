@@ -1,0 +1,15 @@
+/Users/allengrant/Desktop/Customer/Customer.Service/obj/Debug/net7.0/Customer.Service.csproj.AssemblyReference.cache
+/Users/allengrant/Desktop/Customer/Customer.Service/obj/Debug/net7.0/Customer.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allengrant/Desktop/Customer/Customer.Service/obj/Debug/net7.0/Customer.Service.AssemblyInfoInputs.cache
+/Users/allengrant/Desktop/Customer/Customer.Service/obj/Debug/net7.0/Customer.Service.AssemblyInfo.cs
+/Users/allengrant/Desktop/Customer/Customer.Service/obj/Debug/net7.0/Customer.Service.csproj.CoreCompileInputs.cache
+/Users/allengrant/Desktop/Customer/Customer.Service/bin/Debug/net7.0/Customer.Service.deps.json
+/Users/allengrant/Desktop/Customer/Customer.Service/bin/Debug/net7.0/Customer.Service.dll
+/Users/allengrant/Desktop/Customer/Customer.Service/bin/Debug/net7.0/Customer.Service.pdb
+/Users/allengrant/Desktop/Customer/Customer.Service/bin/Debug/net7.0/Customer.Repository.dll
+/Users/allengrant/Desktop/Customer/Customer.Service/bin/Debug/net7.0/Customer.Repository.pdb
+/Users/allengrant/Desktop/Customer/Customer.Service/obj/Debug/net7.0/Customer.Service.csproj.CopyComplete
+/Users/allengrant/Desktop/Customer/Customer.Service/obj/Debug/net7.0/Customer.Service.dll
+/Users/allengrant/Desktop/Customer/Customer.Service/obj/Debug/net7.0/refint/Customer.Service.dll
+/Users/allengrant/Desktop/Customer/Customer.Service/obj/Debug/net7.0/Customer.Service.pdb
+/Users/allengrant/Desktop/Customer/Customer.Service/obj/Debug/net7.0/ref/Customer.Service.dll
